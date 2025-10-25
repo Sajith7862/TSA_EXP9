@@ -1,6 +1,9 @@
 # EX.NO.09        A project on Time series analysis on weather forecasting using ARIMA model 
 ### Date: 
 
+### NAME: MOHAMED HAMEEM SAJITH J
+### REG NO : 212223240090
+
 ### AIM:
 To Create a project on Time series analysis on weather forecasting using ARIMA model in  Python and compare with other models.
 ### ALGORITHM:
